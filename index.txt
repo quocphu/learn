@@ -1,1 +1,1 @@
-first 2 commit f2 + f1: 2nd commit + f2:3rd commit + f1: 3rd commit+ f1: 4th commit
+first 2 commit f2 + f1: 2nd commit + f2:3rd commit + f1: 3rd commit+ f1: 4th commit + master: 2nd
